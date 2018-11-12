@@ -1,9 +1,18 @@
-li {color: hotpink}
-.otsikko {color: blue}
-#jatkuu {color: red}
-* {color: darkred}
-#musta {color: blue}
+* {
+    color: rgb(54, 54, 54);
+    font-family: sans-serif;
+}
+li {color: rgb(61, 61, 61)}
+.otsikko {
+    color: rgb(24, 24, 24);
+    text-align: center; 
+}
+body {
+    margin: 0 auto;
+    max-width: 80em;
+}
 
+#musta {color: blue}
 .first {
     width: 200px;
     height: 150px;
