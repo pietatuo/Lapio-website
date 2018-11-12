@@ -2,3 +2,27 @@ li {color: hotpink}
 .otsikko {color: blue}
 #jatkuu {color: red}
 * {color: darkred}
+#musta {color: black}
+
+.first {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+}
+
+.second {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    left: 250px;
+    position: absolute;
+}
+
+.third {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    left: 500px;
+    position: absolute;
+}
